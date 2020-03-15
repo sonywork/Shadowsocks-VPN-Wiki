@@ -3,7 +3,7 @@ Shadowsocks-VPN教程：[Shadowsocks-VPN官网购买地址](https://portal.shado
 
 ## 1. Shadowsocks-VPN官网
 
-### - 请点击 [Shadowsocks-VPN官网地址了解详情](https://portal.shadowsocks.nl/aff.php?aff=33882)
+### - 请点击 [Shadowsocks-VPN官网地址](https://portal.shadowsocks.nl/aff.php?aff=33882) 了解详情
 
 ## 2. 如何使用Shadowsocks-VPN网站
 
