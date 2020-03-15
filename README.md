@@ -5,6 +5,8 @@ Shadowsocks-VPN教程：[Shadowsocks-VPN官网购买地址](https://portal.shado
 
 ### - 请点击 [Shadowsocks-VPN官网地址](https://portal.shadowsocks.nl/aff.php?aff=33882) 了解详情
 
+![](assets/images/key.jpg)
+
 ## 2. 如何使用Shadowsocks-VPN网站
 
 [客户中心的介绍，包括购买服务、查看节点信息等内容](zh_CN/introduction-of-client-portal.md)
